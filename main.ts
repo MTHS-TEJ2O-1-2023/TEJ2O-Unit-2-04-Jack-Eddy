@@ -1,7 +1,7 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Mr. Coxall
- * Created on: Sep 2020
+ * Created by: Jack
+ * Created on: Sep 2023
  * This program prints the temperature on a microbit
 */
 
