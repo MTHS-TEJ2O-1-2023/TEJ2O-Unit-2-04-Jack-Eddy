@@ -5,7 +5,7 @@
  * This program prints the temperature on a microbit
 */
 
-//variable for microbits temperature
+// variable for microbits temperature
 let microbitTemperature: number
 
 basic.clearScreen()
